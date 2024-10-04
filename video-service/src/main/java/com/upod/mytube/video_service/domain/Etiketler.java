@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 // Etiketler Değer Nesnesi
+// deneme commenti
 public class Etiketler {
     private final Set<String> etiketler;
 
